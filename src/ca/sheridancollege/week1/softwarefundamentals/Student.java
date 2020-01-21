@@ -1,13 +1,13 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools |
+ * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author sidhu376
+ * @author sidhu376 //comment
  */
 public class Student {
     
